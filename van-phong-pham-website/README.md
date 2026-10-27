@@ -11,7 +11,7 @@ dir
 
 ```
 
-- [] : quét nhà 
+- [ ] : quét nhà 
 - [x] : lau nhà  
 
 > không upload.env lên github
